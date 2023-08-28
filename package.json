@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-img",
+  "version": "1.0.0",
+  "description": "practicando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lautaro Toledo <lautraotoledo391@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://lautarohelp.github.io/random-str-msg-img#readme",
+  "bin": {
+    "random-str-msg-img": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
